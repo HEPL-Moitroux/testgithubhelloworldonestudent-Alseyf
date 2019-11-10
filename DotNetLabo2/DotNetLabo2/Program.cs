@@ -11,6 +11,7 @@ namespace DotNetLabo2
         static void Main(string[] args)
         {
             Console.WriteLine("Modification de Denys");
+
             while(Console.Read()==0);
         }
     }
